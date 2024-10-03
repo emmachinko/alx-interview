@@ -13,8 +13,8 @@ def pascal_triangle(n):
     k = []
     if n <= 0:
         return k
-    i = [[1]]
-    for k in range(1, n):
+    k = [[1]]
+    for i in range(1, n):
         temp = [1]
         for j in range(len(k[i - 1]) - 1):
             curr = k[i - 1]
