@@ -1,0 +1,1 @@
+UTF-8 validation is the process of verifying whether a sequence of bytes is a valid UTF-8 encoded string. UTF-8 is a variable-length character encoding where each character can be represented by 1 to 4 bytes. Validating UTF-8 involves ensuring that each byte sequence adheres to the UTF-8 encoding rules.
